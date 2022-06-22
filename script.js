@@ -27,10 +27,3 @@ $('#btn').on('click', function(){
 //コンソールにbodyにopenというclassがあるかどうかbooleanで表示
 //ifもしbodyにopenというclassがある時は、#btn iのclassのri-menu-lineを削除して、ri-close-lineを加える。そうじゃない時は、逆を実行する。
 //btn i を取得して、btnIconに代入する。
-
-
-
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/hitomishimada/.zprofile
-(ここでEnterを押す)
-eval "$(/opt/homebrew/bin/brew shellenv)"
-(ここでEnterを押す)
